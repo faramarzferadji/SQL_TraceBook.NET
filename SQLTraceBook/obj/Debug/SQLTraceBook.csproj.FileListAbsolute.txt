@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\bin\Debug\SQLTraceBook.exe.config
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\bin\Debug\SQLTraceBook.exe
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\bin\Debug\SQLTraceBook.pdb
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.GUI.BookTrace_Form.resources
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.Properties.Resources.resources
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.csproj.GenerateResource.cache
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.exe
+C:\Users\ferad\source\repos\SQLTraceBook\SQLTraceBook\obj\Debug\SQLTraceBook.pdb

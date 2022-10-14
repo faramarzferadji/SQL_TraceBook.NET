@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTraceBook", "SQLTraceBook\SQLTraceBook.csproj", "{D3B6C5C3-1CD0-4C4D-8EF3-9CD5B581FF66}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DBforTRACEBOOK", "DBforTRACEBOOK\DBforTRACEBOOK.sqlproj", "{E195058B-4BB9-4876-9B75-999993CEAFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B6C5C3-1CD0-4C4D-8EF3-9CD5B581FF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B6C5C3-1CD0-4C4D-8EF3-9CD5B581FF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B6C5C3-1CD0-4C4D-8EF3-9CD5B581FF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B6C5C3-1CD0-4C4D-8EF3-9CD5B581FF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E195058B-4BB9-4876-9B75-999993CEAFF3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E12D7E0-5E04-4D42-868D-21C47BAE0710}
+	EndGlobalSection
+EndGlobal

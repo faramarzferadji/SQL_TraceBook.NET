@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="53b51bf6-92bf-4564-9092-3049765d1c3e" ChangeDateTime="10/12/2022 14:17:04">
+    <Property Name="ElementName" Value="[dbo].[TraceBookTable].[name]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TraceBookTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="STname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a32eda29-fc15-4aba-92bc-23d25cb818ee" ChangeDateTime="10/12/2022 14:18:13">
+    <Property Name="ElementName" Value="[dbo].[TraceBookTable].[STname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TraceBookTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="stname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="da82ea90-3a23-4e79-ae89-faafbb4b4051" ChangeDateTime="10/12/2022 14:18:23">
+    <Property Name="ElementName" Value="[dbo].[TraceBookTable].[BKname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TraceBookTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="bookname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a3a83a44-dacf-4eed-85f0-cba26b3081c9" ChangeDateTime="10/12/2022 14:18:28">
+    <Property Name="ElementName" Value="[dbo].[TraceBookTable].[Block]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TraceBookTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="block" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6543bef6-624e-461e-84bb-c6fd9e3ae4d7" ChangeDateTime="10/12/2022 14:18:36">
+    <Property Name="ElementName" Value="[dbo].[TraceBookTable].[Book]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TraceBookTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="bookid" />
+  </Operation>
+</Operations>

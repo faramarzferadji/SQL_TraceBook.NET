@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\bin\Debug\DBforTRACEBOOK.dacpac
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\bin\Debug\DBforTRACEBOOK.dll
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\bin\Debug\DBforTRACEBOOK.pdb
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\DBforTRACEBOOK.sqlproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\Model.xml
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\refactor.xml
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\postdeploy.sql
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\predeploy.sql
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\DBforTRACEBOOK.dll
+C:\Users\ferad\source\repos\SQLTraceBook\DBforTRACEBOOK\obj\Debug\DBforTRACEBOOK.pdb
